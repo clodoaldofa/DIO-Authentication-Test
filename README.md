@@ -1,2 +1,2 @@
 # DIO-Authentication-Test
-Projeto para teste de Autenticação no GitHub
+Projeto DIO para teste de Autenticação no GitHub
